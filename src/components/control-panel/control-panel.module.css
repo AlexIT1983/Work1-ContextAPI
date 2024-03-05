@@ -1,0 +1,6 @@
+.controlPanel {
+	height: 25px;
+	border-bottom: 2px solid darkgreen;
+	padding: 10px;
+	display: flex;
+}
